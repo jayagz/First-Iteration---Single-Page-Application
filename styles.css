@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://media.giphy.com/media/51LroAULHlkqY/giphy.gif");
+    background-image: url("https://media.giphy.com/media/1lCG3iiJB9w0NkqpU9/giphy.gif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -12,8 +12,11 @@ body {
 }
 
 header {
-    background-color:red;
-    color: white;
+    background-image: url("https://media.giphy.com/media/1lCG3iiJB9w0NkqpU9/giphy.gif");
+   background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+ color: red;
     padding: 50px 0;
     text-align: center;
 }
@@ -50,8 +53,10 @@ nav a:hover {
 }
 
 main {
-    background-color: white;
-    padding: 10px;
+       background-image: url("https://media.giphy.com/media/SVgCHJ2n35EA6XFPpO/giphy.gif");
+ background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;padding: 10px;
     margin-top: 20px;
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
