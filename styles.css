@@ -43,7 +43,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: white;
+    color: blue;
     font-weight: bold;
     transition: color 0.3s;
 }
@@ -53,13 +53,15 @@ nav a:hover {
 }
 
 main {
-       background-image: url("https://media.giphy.com/media/SVgCHJ2n35EA6XFPpO/giphy.gif");
+       background-image: url("https://media.giphy.com/media/lln1gKSlV6QheyYQuH/giphy.gif");
  background-size: cover;
     background-position: center;
     background-repeat: no-repeat;padding: 10px;
     margin-top: 20px;
+    color: white;
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+
 }
 
 .project {
